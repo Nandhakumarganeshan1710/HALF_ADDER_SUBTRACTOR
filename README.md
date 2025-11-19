@@ -76,10 +76,12 @@ endmodule
 Developed by: NANDHAKUMAR G/25017664.
 
 **RTL Schematic**
-![alt text](<Screenshot 2025-11-19 135529.png>)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3749d59-7c2f-496d-8026-05aab53a900f" />
+
 
 **Output/TIMING Waveform**
-![alt text](<Screenshot 2025-11-19 135936.png>)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4d03e52-3be3-494a-bbc7-b66c1f16601b" />
+
 
 **Result:**
 Thus the Half Adder and Half Subtractor circuits are designed and the truth tables is verified using Quartus software.
